@@ -24,10 +24,6 @@ Throughout my academic journey, I've honed my skills in problem-solving, critica
 - Networking Protocols and Technologies: **TCP, UDP, DHCP, HTTPS**
 - Tools and Technologies: **Docker, Git**
 
-## 📈 Projects and Contributions
-
-(Here, you would list some projects you've worked on or contributed to, providing links to the repositories and a brief description of each, highlighting your role and the technologies used.)
-
 ## 🤝 Let's Connect
 
 I am committed to making an impact and driving success. If you're looking for a dedicated and adaptable professional with a passion for technology, I'd be thrilled to connect with you and explore potential opportunities.
