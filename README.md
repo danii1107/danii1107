@@ -46,7 +46,7 @@ Based in the vibrant city of Madrid, Spain, I'm forging my path in the tech worl
 ![VIM](https://img.shields.io/badge/VIM-a?style=for-the-badge&logo=vim&color=grey)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-a?style=for-the-badge&logo=visualstudiocode&color=grey)
 ![Linux](https://img.shields.io/badge/Linux-a?style=for-the-badge&logo=linux&color=grey)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-a?style=for-the-badge&logo=vmware&color=grey)
 
 #### 🖧 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Expert-blue?style=flat-square)
