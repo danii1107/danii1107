@@ -54,7 +54,7 @@ Based in the vibrant city of Madrid, Spain, I'm forging my path in the tech worl
 
 <a> 
     <a href="https://github.com/danii1107"><img alt="Daniel Birsan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=danii1107&show_icons=true&include_all_commits=true&theme=calm&card_width=300" height="180px"/></a>
-    <a href="https://github.com/danii1107"><img alt="Daniel Birsan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danii1107&langs_count=8&layout=compact&theme=calm&card_width=300" height="180px"/></a>
+    
     <br/>
 </a>
 
