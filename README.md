@@ -25,4 +25,5 @@ Here on GitHub, I dive deep into the realms of software development, exploring e
 - Networking Protocols and Technologies: **TCP, UDP, DHCP, HTTPS**
 - Tools and Technologies: **Docker, Git**
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danii1107&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danii1107&show_icons=true&theme=radical) ![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+
