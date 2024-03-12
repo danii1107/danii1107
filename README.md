@@ -1,7 +1,7 @@
 ![](https://github.com/danii1107/danii1107/blob/main/banner.webp)
  
-📧 **Email:** danielbirsan@hotmail.com  
-🔗 **LinkedIn:** [daniel-birsan](https://linkedin.com/in/daniel-birsan)
+[![Email](https://img.shields.io/badge/Email-danielbirsan%40hotmail.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:danielbirsan@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--birsan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/daniel-birsan)
 
 # Welcome to Daniel Birsan's GitHub! 🌟
 
