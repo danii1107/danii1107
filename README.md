@@ -1,9 +1,5 @@
 ![](https://github.com/danii1107/danii1107/blob/main/banner.webp)
- 
-[![Email](https://img.shields.io/badge/Email-danielbirsan%40hotmail.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:danielbirsan@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--birsan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/daniel-birsan)
-
-# Welcome to Daniel Birsan's GitHub! 🌟
+ # Welcome to Daniel Birsan's GitHub! 🌟
 
 Based in the vibrant city of Madrid, Spain, I'm forging my path in the tech world as an aspiring computer science and engineering wizard. My journey is fueled by an insatiable curiosity for technology and an unwavering commitment to pushing the boundaries of what's possible through coding.
 
@@ -61,3 +57,7 @@ Based in the vibrant city of Madrid, Spain, I'm forging my path in the tech worl
     <a href="https://github.com/danii1107"><img alt="Daniel Birsan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danii1107&langs_count=8&layout=compact&theme=calm&card_width=300" height="180px"/></a>
     <br/>
 </a>
+
+## 📲 Contact info
+[![Email](https://img.shields.io/badge/Email-danielbirsan%40hotmail.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:danielbirsan@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--birsan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/daniel-birsan)
