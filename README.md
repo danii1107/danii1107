@@ -25,10 +25,4 @@ Here on GitHub, I dive deep into the realms of software development, exploring e
 - Networking Protocols and Technologies: **TCP, UDP, DHCP, HTTPS**
 - Tools and Technologies: **Docker, Git**
 
-## 📫 Let's Connect
-
-If you're passionate about technology and love to collaborate on innovative projects, I'd love to hear from you. Whether it's a hackathon, a potential project, or just to exchange ideas, feel free to reach out!
-Let's make the digital world a better place, one commit at a time. 🌍💻
-
-
-Looking forward to connecting soon!
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danii1107&show_icons=true&theme=radical)
