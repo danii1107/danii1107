@@ -52,7 +52,7 @@ Based in the vibrant city of Madrid, Spain, I'm forging my path in the tech worl
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Expert-blue?style=flat-square)
 ![UDP](https://img.shields.io/badge/UDP-Advanced-orange?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-Intermediate-yellow?style=flat-square)
-![HTTP](https://img.shields.io/badge/HTTP-Experienced-green?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-Expert-blue?style=flat-square)
 
 ## 📊 Stats
 
